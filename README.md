@@ -1,7 +1,7 @@
 # kjenq.github.io
 
-Hello World!
+This website will showcase what I learned on FreeCodeCamp. 
 
-This is my first try at GitHub.
+I used Bootstrap to make the webpage responsive.
 
-Please feel free to browse my homepage.
+Please feel free to browse my homepage. Thanks!
