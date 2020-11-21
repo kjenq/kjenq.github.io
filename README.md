@@ -1,7 +1,6 @@
-# kjenq.github.io
+# Welcome
 
-This website will showcase what I learned on FreeCodeCamp. 
+This is a simple website built using HTML.
 
-I used Bootstrap to make the webpage responsive.
-
-Please feel free to browse my homepage. Thanks!
+* 21-Nov-2020 (Sat)
+  - Embedded Javascript
